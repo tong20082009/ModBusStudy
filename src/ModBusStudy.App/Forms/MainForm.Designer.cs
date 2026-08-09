@@ -1,4 +1,4 @@
-﻿namespace ModBusStudy
+﻿namespace ModBusStudy.App
 {
     partial class MainForm
     {
